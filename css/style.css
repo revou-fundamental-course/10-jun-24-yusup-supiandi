@@ -1,0 +1,39 @@
+/*ini css*/
+
+
+body {
+    background: linear-gradient(to right, #5fe7ff, #8f7bfe);
+}
+
+.main {
+    width: 500px;
+    height: 500px;
+}
+.celsius-container {
+    text-align: center;
+    
+}
+
+.result-container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+textarea {
+    resize: none;
+    border:2px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    background-color: blue;
+    height: 25px;
+    border:0px;
+    border-radius: 4px;
+}
+
+.subjek-info {
+    font-size: 24px;
+    font-style: italic;
+    font-family: math;
+}
